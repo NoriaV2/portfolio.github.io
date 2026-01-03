@@ -64,12 +64,12 @@ nav a:hover {
     margin-bottom:  1rem;
 }
 
-. hero p {
+.hero p {
     font-size: 1.5rem;
 }
 
 /* Projecten sectie */
-. projecten {
+.projecten {
     max-width: 1200px;
     margin: 4rem auto;
     padding: 0 2rem;
@@ -87,7 +87,7 @@ nav a:hover {
     gap: 2rem;
 }
 
-. project-card {
+.project-card {
     background:  white;
     border-radius:  10px;
     overflow: hidden;
@@ -180,7 +180,7 @@ footer {
         font-size: 2rem;
     }
     
-    . hero p {
+    .hero p {
         font-size:  1.2rem;
     }
     
